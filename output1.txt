@@ -1,0 +1,14 @@
+     Exam Stats
+
+Number of scores: 60
+Average score: 69.33
+Population standard deviation: 17.80
+
+A count: 4      6.67%
+B count: 18     30.00%
+C count: 15     25.00%
+D count: 8      13.33%
+F count: 15     25.00%
+
+Minimum score: 16
+Maximum score: 100
